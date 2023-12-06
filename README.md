@@ -7,7 +7,9 @@ Xiangru Zhu<sup>1</sup>, Penglei Sun<sup>2</sup>, Chengyu Wang<sup>3</sup>, Jing
 
 [Paper](https://arxiv.org/abs/2312.02338)
 
-<img src="https://github.com/zhuxiangru/Winoground-T2I/blob/main/figures/figure1.png" alt="Failed cases on Stable Diffusion XL 1.0" width="600" title="Failed cases on Stable Diffusion XL 1.0" />
+<p align="center">
+  <img src="https://github.com/zhuxiangru/Winoground-T2I/blob/main/figures/figure1.png" alt="Failed cases on Stable Diffusion XL 1.0" width="600" title="Failed cases on Stable Diffusion XL 1.0" />
+</p>
 
 <!-- ![Failed cases on Stable Diffusion XL 1.0](https://github.com/zhuxiangru/Winoground-T2I/blob/main/figures/figure1.png) -->
 
