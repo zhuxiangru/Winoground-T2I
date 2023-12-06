@@ -13,6 +13,7 @@ Xiangru Zhu<sup>1</sup>, Penglei Sun<sup>2</sup>, Chengyu Wang<sup>3</sup>, Jing
 
 <!-- ![Statistics of categories](https://github.com/zhuxiangru/Winoground-T2I/blob/main/figures/figure3.png) -->
 
+![Evaluation results from SDXL and IF](https://github.com/zhuxiangru/Winoground-T2I/blob/main/figures/figure4.png)
 
 # Updates
 
