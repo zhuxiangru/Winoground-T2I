@@ -26,7 +26,7 @@ Xiangru Zhu<sup>1</sup>, Penglei Sun<sup>2</sup>, Chengyu Wang<sup>3</sup>, Jing
 - ⬜ Code for Data Collection
 - ⬜ Code for Evaluating the Reliability of Metrics from 4 Perspectives
 - ⬜ Results of Human Evaluation and Code for the Annotation Interface
-- ⬜ Code for the improved version of LLMs with self-verification 
+- ⬜ Code for the improved version of LLMScore with self-verification 
 
 # Dataset
 
