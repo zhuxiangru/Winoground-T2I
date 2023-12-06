@@ -23,6 +23,12 @@ Xiangru Zhu<sup>1</sup>, Penglei Sun<sup>2</sup>, Chengyu Wang<sup>3</sup>, Jing
 - ⬜ Results of Human Evaluation and Code for the Annotation Interface
 - ⬜ Code for the improved version of LLMs with self-verification 
 
+# Dataset
+
+Winoground-T2I Dataset: data/dataset/
+
+Templates: data/template/
+
 # Acknowledgments
 
 We makes use of several T2I fidelity metrics to evaluate T2I synthesis models. 
