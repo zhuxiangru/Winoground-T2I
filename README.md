@@ -7,6 +7,11 @@ Xiangru Zhu<sup>1</sup>, Penglei Sun<sup>2</sup>, Chengyu Wang<sup>3</sup>, Jing
 
 [Paper](https://arxiv.org/abs/2312.02338)
 
+![Failed cases on Stable Diffusion XL 1.0](https://github.com/zhuxiangru/Winoground-T2I/blob/main/figures/figure1.png)
+
+![The pipeline of data collection, quality control and labeling](https://github.com/zhuxiangru/Winoground-T2I/blob/main/figures/figure2.png)
+
+![Statistics of categories](https://github.com/zhuxiangru/Winoground-T2I/blob/main/figures/figure3.png)
 
 
 # Updates
