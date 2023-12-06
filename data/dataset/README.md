@@ -9,9 +9,12 @@ dataset.txt: The Winoground-T2I dataset containing contrastive sentence pairs in
 
 category_all_label.txt: The contrastive sentence pairs with the categories labeled by the ```ALL``` method, which refers to all evolved categories.
 
+The format is : id \t T0 \t T1 \t category_information
+
 
 
 # Category Labeled by the DIFF Method
 
 category_all_label.txt: The contrastive sentence pairs with the categories labeled by the ```DIFF``` method, which refers to these categories in which the difference occurs.
 
+The format is : id \t T0 \t T1 \t category_information
