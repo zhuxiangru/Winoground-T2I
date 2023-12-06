@@ -1,0 +1,401 @@
+id	caption_0	caption_1	tag	secondary_tag	num_main_preds	collapsed_tag
+0	an old person kisses a young person	a young person kisses an old person	Adjective-Age		1	Relation
+1	the taller person hugs the shorter person	the shorter person hugs the taller person	Adjective-Size		1	Relation
+2	the masked wrestler hits the unmasked wrestler	the unmasked wrestler hits the masked wrestler	Adjective-Manner	Series	1	Relation
+3	a person watches an animal	an animal watches a person	Noun		1	Object
+4	the person without earrings pays the person with earrings	the person with earrings pays the person without earrings	Negation, Scope	Morpheme-Level	1	Relation
+5	a bird eats a snake	a snake eats a bird	Noun		1	Object
+6	a plant was harmed by another organism, and that organism broke the plant into pieces	another organism was harmed by a plant, and that plant broke the organism into pieces	Determiner-Numeral, Noun Phrase		1	Object
+7	a bottle is in water	water is in a bottle	Noun Phrase		1	Object
+8	a tree smashed into a car	a car smashed into a tree	Noun		1	Object
+9	people fall on the leaves	the leaves fall on people	Noun Phrase		1	Object
+10	the sail rests below the water	the water rests below the sail	Noun	Series	1	Object
+11	there is a table below someone	there is someone below a table	Noun Phrase		1	Object
+12	the image shows a computer on top of books	the image shows books on top of a computer	Noun Phrase		1	Object
+13	a caterpillar with some plants	a plant with some caterpillars	Noun	Morpheme-Level	1	Object
+14	there is a mug in some grass	there is some grass in a mug	Determiner-Numeral, Noun Phrase		1	Object
+15	there are more skiers than snowboarders	there are more snowboarders than skiers	Noun		1	Object
+16	there are fewer forks than spoons	there are fewer spoons than forks	Noun		1	Object
+17	there are more ladybugs than flowers	there are more flowers than ladybugs	Noun		1	Object
+18	there is less orange juice than milk	there is less milk than orange juice	Noun		1	Object
+19	there is more dirt than empty space in the jar	there is more empty space than dirt in the jar	Noun		1	Object
+20	there is a bit less milk chocolate than white chocolate	there is a bit less white chocolate than milk chocolate	Adjective-Manner		1	Relation
+21	a person sits and a dog stands	a person stands and a dog sits	Verb-Intransitive		2	Relation
+22	The person with more facial hair lies awake while the other sleeps	The person with more facial hair sleeps while the other lies awake	Verb-Intransitive		2	Relation
+23	the person in the middle is floating and some others are standing	the person in the middle is standing and some others are floating	Verb-Intransitive	Series	2	Relation
+24	the person closer to the camera weightlifts and the person farther from the camera runs	the person closer to the camera runs and the person farther from the camera weightlifts	Verb-Intransitive		2	Relation
+25	the person with the white collared shirt waters the plant while the other holds it	the person with the white collared shirt holds the plant while the other waters it	Verb-Transitive		2	Relation
+26	the taller person chops food and the shorter person eats food	the taller person eats food and the shorter person chops food	Verb-Transitive		2	Relation
+27	the person with the ponytail packs stuff and other buys it	the person with the ponytail buys stuff and other packs it	Verb-Transitive	Series	2	Relation
+28	a person walking in a field of yellow flowers with a red dress	a person walking in a field of red flowers with a yellow dress	Adjective-Color		1	Relation
+29	a brown dog is on a white couch	a white dog is on a brown couch	Adjective-Color		1	Relation
+30	a blue bird is next to a red berry	a red bird is next to a blue berry	Adjective-Color		1	Relation
+31	The red book is above the yellow book and below the blue book	The yellow book is above the blue book and below the red book	Adjective-Color (3-way swap)	Symbolic	2	Relation
+32	astronauts in blue suits with a red planet in the background	astronauts in red suits with a blue planet in the background	Adjective-Color	Symbolic	1	Relation
+33	the square table has a round base	the round table has a square base	Adjective-Shape		1	Relation
+34	pointy bushes are behind rectangular bushes	rectangular bushes are behind pointy bushes	Adjective-Shape		1	Relation
+35	a circular sign is above a rectangular sign	a rectangular sign is above a circular sign	Adjective-Shape		1	Relation
+36	a wood chess piece rests on metal objects	a metal chess piece rests on wood objects	Adjective-Texture		1	Relation
+37	soft shoes are on a smooth floor	smooth shoes are on a soft floor	Adjective-Texture		1	Relation
+38	the happy person is on the right and the sad person is on the left	the sad person is on the right and the happy person is on the left	Adjective-Animate		2	Relation
+39	the hurt person is on the left and the helpful person is on the right	the helpful person is on the left and the hurt person is on the right	Adjective-Animate		2	Relation
+40	the more content person has the healthier food and the less content person has the less healthy food	the less content person has the healthier food and the more content person has the less healthy food	Adjective-Animate		2	Relation
+41	the orange lollipop is sad and the red lollipop is surprised	the orange lollipop is surprised and the red lollipop is sad	Adjective-Animate	Symbolic, Series	2	Relation
+42	the larger person wears yellow and the smaller person does not	the smaller person wears yellow and the larger person does not	Adjective-Size		2	Relation
+43	a big cat is next to a small dog	a small cat is next to a big dog	Adjective-Size		1	Relation
+44	the heavy oncoming traffic is contrasted with the light outgoing traffic	the light oncoming traffic is contrasted with the heavy outgoing traffic	Adjective-Weight		1	Relation
+45	a cold drink on a hot day	a hot drink on a cold day	Adjective-Temperature		1	Relation
+46	a person is drinking now and eating later	a person is drinking later and eating now	Adverb-Temporal		2	Relation
+47	the sailboat sails close but the beach is far away	the sailboat sails far away but the beach is close	Adverb-Spatial Phrase		2	Relation
+48	the passenger is riding inattentive to the road and the driver is driving attentive to the road	the passenger is riding attentive to the road and the driver is driving inattentive to the road	Negation, Scope		2	Relation
+49	it wears a hat but the person doesn't	the person wears a hat but it doesn't	Pronoun, Noun Phrase		2	Object
+50	the person with green legs is running quite slowly and the red legged one runs faster	the person with green legs is running faster and the red legged one runs quite slowly	Adjective-Speed Phrase, Verb-Intransitive	Symbolic, Series	2	Relation
+51	a person is in the water and close to the sand	a person is close to the water and in the sand	Preposition Phrase		2	Relation
+52	a frog is above rocks which are under the water	a frog is under rocks which are above the water	Preposition		2	Relation
+53	driving off the road and on the unpaved terrain	driving on the road and off the unpaved terrain	Preposition		2	Relation
+54	someone is in a helicopter with a car	someone is with a helicopter in a car	Preposition	Symbolic	1	Relation
+55	the green one can fit inside the blue one and the blue one can fit outside the green one	the green one can fit outside the blue one and the blue one can fit inside the green one	Preposition	Symbolic	2	Relation
+56	jumping away from the photographer and towards the others	jumping towards the photographer and away from the others	Preposition Phrase		2	Relation
+57	someone bakes the dough before the dough is eaten	the dough is eaten before someone bakes the dough	Sentence		2	Relation
+58	it hatched before it was eaten	it was eaten before it hatched	Verb-Intransitive		2	Relation
+59	there are three bananas and two apples	there are two bananas and three apples	Determiner-Numeral		1	Relation
+60	someone has loaded their plate with one of the toast slices and two of the eggs	someone has loaded their plate with two of the toast slices and one of the eggs	Determiner-Numeral		1	Relation
+61	there are three people and two windows	there are two people and three windows	Determiner-Numeral	Symbolic	1	Relation
+62	there are 50 stars on the right flag and 5 stars on the left flag	there are 5 stars on the right flag and 50 stars on the left flag	Determiner-Numeral	Symbolic	2	Relation
+63	no people wear blue shirts and six people wear white shirts	six people wear blue shirts and no people wear white shirts	Determiner-Numeral		2	Relation
+64	the dog's leg is on the person's torso	the person's leg is on the dog's torso	Determiner-Possessive		1	Relation
+65	the animal's eyes are bigger than the person's	the person's eyes are bigger than the animal's	Determiner-Possessive		1	Relation
+66	the taller person's arm is around the shorter person's shoulder	the shorter person's arm is around the taller person's shoulder	Determiner-Possessive		1	Relation
+67	the person in a brown coat looks back and the person in a black coat looks forward	the person in a black coat looks back and the person in a brown coat looks forward	Adjective-Color	Series	2	Relation
+68	it ran away while they pursued	they ran away while it pursued	Pronoun, Verb-Intransitive		2	Object
+69	almost everyone is in a boat and one is swimming	one is in a boat and almost everyone is swimming	Determiner-Numeral Phrase		2	Object
+70	the person with the lighter shoes is holding an emoji and the person with the darker shoes isn't	the person with the darker shoes is holding an emoji and the person with the lighter shoes isn't	Adjective-Color	Symbolic, Series	2	Relation
+71	the person wearing neutral colors poses and the person wearing brighter colors takes a picture	the person wearing brighter colors poses and the person wearing neutral colors takes a picture	Adjective-Color		2	Relation
+72	it's a fire truck	it's a truck fire	Noun		1	Object
+73	watching the present	presenting the watch	Altered POS	Morpheme-Level	1	Both
+74	walking out on a rock	rocking out on a walk	Altered POS	Morpheme-Level	1	Both
+75	the kid with the magnifying glass looks at them	the kid looks at them with the magnifying glass	Preposition Phrase, Scope	Pragmatics	1	Relation
+76	the person with the kids is sitting	the person is sitting with the kids	Preposition Phrase, Scope	Pragmatics	1	Relation
+77	the people with shoes are touching each other	the people are touching each other with shoes	Preposition Phrase, Scope	Pragmatics	1	Relation
+78	someone with an apple is hurt by a tree	someone is hurt by a tree with an apple	Preposition Phrase, Scope	Symbolic, Pragmatics	1	Relation
+79	the person that is on the table is eating the food	the person is eating the food that is on the table	Preposition Phrase, Scope		1	Relation
+80	the watering can is larger than the pot	the pot is larger than the watering can	Noun		1	Object
+81	they hold a suitcase handle with their left hand and they hold a passport with their right hand	they hold a passport with their left hand and they hold a suitcase handle with their right hand	Noun		2	Object
+82	the person with the patterned shirt is curly-haired and the other is straight-haired	the person with the patterned shirt is straight-haired and the other is curly-haired	Adjective-Texture		2	Relation
+83	a diagram showing movement from right to left	a diagram showing movement from left to right	Preposition	Symbolic	1	Relation
+84	the flip flops are too big for these feet	the feet are too big for these flip flops	Noun		1	Object
+85	the person who is wearing a crown is kissing a frog	the person is kissing a frog who is wearing a crown	Relative Clause, Scope		1	Relation
+86	a dog sitting on a couch with a person lying on the floor	a person lying on a couch with a dog sitting on the floor	Noun, Verb-Intransitive		2	Both
+87	The uncaged bird has an opened cage door	The caged bird has an unopened cage door	Negation, Scope	Morpheme-Level, Series	1	Relation
+88	meat with potatoes	potatoes with meat	Noun	Pragmatics	1	Object
+89	the person in pink was close to not winning	the person in pink was not close to winning	Negation, Scope	Symbolic	1	Relation
+90	two humans and one wheel	two wheels and one human	Noun	Morpheme-Level	1	Object
+91	clothing on lines	lines on clothing	Noun		1	Object
+92	someone talks on the phone angrily while another person sits happily	someone talks on the phone happily while another person sits angrily	Adverb-Animate		2	Relation
+93	two boats and one direction down the stream	one boat and two directions down the stream	Determiner-Numeral	Symbolic, Morpheme-Level	1	Relation
+94	The dog rides without a visible tongue	The dog rides with a visible tongue out	Negation, Scope		1	Relation
+95	handing a hammer	hammering a hand	Altered POS		1	Both
+96	leaves its shedding	shedding its leaves	Altered POS		1	Both
+97	they are using no bait but still got fish	they are using bait but still got no fish	Negation, Scope		2	Relation
+98	someone on the ground is spraying water towards a vehicle	someone is on a vehicle spraying water towards the ground	Verb-Transitive, Noun		1	Both
+99	the dog wears as a hat what someone would normally bite	the dog bites what someone would normally wear as a hat	Verb-Transitive Phrase, Verb-Intransitive, Preposition Phrase	Morpheme-Level	2	Relation
+100	the happy one is on the left and the upset one is on the right	the upset one is on the left and the happy one is on the right	Adjective-Animate		2	Relation
+101	fake mustache and real hair on head	real mustache and fake hair on head	Adjective-Animate		1	Relation
+102	real cat with toy baby	toy cat with real baby	Adjective-Animate		1	Relation
+103	the lion is loud and the lionness is quiet	the lion is quiet and the lionness is loud	Adjective-Animate		2	Relation
+104	there is a pink couch with green pillows	there is a green couch with pink pillows	Adjective-Color		1	Relation
+105	light colored dog with dark colored cat	dark colored dog with light colored cat	Adjective-Color		1	Relation
+106	someone is wearing a black hat and yellow shirt	someone is wearing a yellow hat and black shirt	Adjective-Color		1	Relation
+107	black socks and orange shoes	orange socks and black shoes	Adjective-Color	Symbolic	1	Relation
+108	red building with white shutters	white building with red shutters	Adjective-Color		1	Relation
+109	blue pants and green top	green pants and blue top	Adjective-Color		1	Relation
+110	there's one blue and many yellow balls	there's one yellow and many blue balls	Adjective-Color	Symbolic	1	Relation
+111	there are more silver coins than gold coins	there are more gold coins than silver coins	Adjective-Color		1	Relation
+112	the red team kicking the ball directly next to the blue team	the blue team kicking the ball directly next to the red team	Adjective-Color		1	Relation
+113	black dog wearing a brown sweater	brown dog wearing a black sweater	Adjective-Color		1	Relation
+114	one green apple surrounded by a bunch of red apples	one red apple surrounded by a bunch of green apples	Adjective-Color		1	Relation
+115	person in white is reading the orange book	person in orange is reading the white book	Adjective-Color		1	Relation
+116	the children are being quiet while the adult is loud	the children are being loud while the adult is quiet	Adjective-Manner		2	Relation
+117	the circular mirror is on the left and the rectangular mirror is on the right	the rectangular mirror is on the left and the circular mirror is on the right	Adjective-Shape		2	Relation
+118	circular food on heart-shaped wood	heart-shaped food on circular wood	Adjective-Shape		1	Relation
+119	the dress on the left is long and the dress on the right is short	the dress on the left is short and the dress on the right is long	Adjective-Size		2	Relation
+120	the balloon in the middle has less air and the other balloons have more air	the balloon in the middle has more air and the other balloons have less air	Adjective-Size		2	Relation
+121	the pool has no people and the area around it has a lot of people	the pool has a lot of people and the area around it has no people	Adjective-Size		2	Relation
+122	big fish beside a small person	small fish beside a big person	Adjective-Size		1	Relation
+123	the train is moving fast while the person is still	the train is still while the person is moving fast	Adjective-Speed		2	Relation
+124	they're enjoying hot water on a cold day	they're enjoying cold water on a hot day	Adjective-Temperature		1	Relation
+125	concrete floors with wood walls	wood floors with concrete walls	Adjective-Texture		1	Relation
+126	the person on the left has curly hair and the person on the right has straight hair	the person on the left has straight hair and the person on the right has curly hair	Adjective-Texture		2	Relation
+127	there's a metal bottle with a plastic lid	there's a plastic bottle with a metal lid	Adjective-Texture		1	Relation
+128	the fruit is heavy while the junk food is light	the fruit is light while the junk food is heavy	Adjective-Weight		2	Relation
+129	the car is sitting upside down while the person is standing rightside up	the car is sitting rightside up while the person is standing upside down	Adverb-Spatial		2	Relation
+130	the cup on the left is filled first and the cup on the right is filled second	the cup on the left is filled second and the cup on the right is filled first	Adverb-Temporal		2	Relation
+131	milk cow	cow milk	Noun		1	Object
+132	there is a clock wall	there is a wall clock	Noun		1	Object
+133	there is a split banana	there is a banana split	Altered POS		1	Both
+134	there are two people and a bunch of horses	there are a bunch of people and two horses	Determiner-Numeral		1	Relation
+135	three white and two brown eggs	two white and three brown eggs	Determiner-Numeral		1	Relation
+136	the plastic is in the fish	the fish is in the plastic	Noun	Symbolic	1	Object
+137	the dog's paw is on the cat's face	the cat's paw is on the dog's face	Determiner-Possessive		1	Relation
+138	the computer's screen is on and the phone's screen is off	the phone's screen is on and the computer's screen is off	Determiner-Possessive		2	Relation
+139	the dog is in the driver's seat and the person is in the passenger's seat	the dog is in the passenger's seat and the person is in the driver's seat	Determiner-Possessive		2	Relation
+140	there are more trees than people	there are more people than trees	Noun		1	Object
+141	there are more computers than people	there are more people than computers	Noun		1	Object
+142	there is more wood than metal	there is more metal than wood	Noun		1	Object
+143	there are more hats than people	there are more people than hats	Noun		1	Object
+144	there are more people than stools	there are more stools than people	Noun		1	Object
+145	there is more red wine than white wine	there is more white wine than red wine	Adjective-Color		1	Relation
+146	there's more milk than coffee	there's more coffee than milk	Noun		1	Object
+147	there's more cereal in the bowl than milk	there's more milk in the bowl than cereal	Noun		1	Object
+148	boat sail	sail boat	Noun		1	Object
+149	boat house	house boat	Noun		1	Object
+150	check a rip	rip a check	Altered POS		1	Both
+151	dress the display	display the dress	Altered POS		1	Both
+152	spoon holding honey	honey holding spoon	Noun		1	Object
+153	books holding up a person	a person holding up books	Noun Phrase		1	Object
+154	a dog is using a wheelchair next to a person	a person is using a wheelchair next to a dog	Noun		1	Object
+155	some plants surrounding a lightbulb	a lightbulb surrounding some plants	Determiner-Numeral, Noun Phrase		1	Object
+156	a more lightly-colored dog is holding a toy next to a black dog	a black dog is holding a toy next to a more lightly-colored dog	Adjective-Color		1	Relation
+157	the flowers are taller than the people	the people are taller than the flowers	Noun		1	Object
+158	there's a human in a stroller next to a dog	there's a dog in a stroller next to a human	Noun		1	Object
+159	a person is casting a shadow beside a ball	a ball is casting a shadow beside a person	Noun		1	Object
+160	its tail is shorter than its body	its body is shorter than its tail	Noun		1	Object
+161	the child is throwing the adult the ball	the adult is throwing the child the ball	Noun		1	Object
+162	a person underneath lights	lights underneath a person	Noun Phrase		1	Object
+163	some green on the ball	the ball on some green	Determiner-Numeral, Noun Phrase		1	Object
+164	mind in the clouds	clouds in the mind	Noun	Symbolic	1	Object
+165	there's a phone on a map	there's a map on a phone	Noun		1	Object
+166	a person on a rock next to a dog	a dog on a rock next to a person	Noun		1	Object
+167	an adult is flexing beside a child	a child is flexing beside an adult	Noun		1	Object
+168	the person is looking at the dog	the dog is looking at the person	Noun		1	Object
+169	a cat is underneath a red blanket	a red blanket is underneath a cat	Noun Phrase		1	Object
+170	the person is bigger than the house	the house is bigger than the person	Noun		1	Object
+171	the person is underneath the car	the car is underneath the person	Noun		1	Object
+172	the water is filled with plastic	the plastic is filled with water	Noun		1	Object
+173	an apple is on a target	a target is on an apple	Noun		1	Object
+174	plant made out of a light bulb	light bulb made out of a plant	Noun	Symbolic	1	Object
+175	parent pointing at child	child pointing at parent	Noun		1	Object
+176	the person reached the base before the ball	the ball reached the base before the person	Noun		1	Object
+177	ice being dumped on top of fish	fish being dumped on top of ice	Noun		1	Object
+178	an adult kisses a child	a child kisses an adult	Noun		1	Object
+179	there's a dog in a mask and a person beside it	there's a dog and a person in a mask beside it	Preposition Phrase, Scope		2	Relation
+180	the baby on the phone is next to an adult	the baby is next to an adult on the phone	Preposition Phrase, Scope	Pragmatics	1	Relation
+181	the person on the left has their arms up and the person on the right has their arms down	the person on the right has their arms up and the person on the left has their arms down	Preposition		2	Relation
+182	the person on the left is holding the phone and the person on the right is staring at it	the person on the right is holding the phone and the person on the left is staring at it	Preposition		2	Relation
+183	the orange on the left is moldy while the orange on the right is fresh	the orange on the right is moldy while the orange on the left is fresh	Preposition		2	Relation
+184	a pink scoop of ice cream on top and a blue scoop on bottom	a pink scoop of ice cream on bottom and a blue scoop on top	Preposition		2	Relation
+185	the glasses on the right are fuller than the glasses on the left	the glasses on the left are fuller than the glasses on the right	Preposition		1	Relation
+186	the person on the left is blowing bubbles and the person on the right is watching	the person on the right is blowing bubbles and the person on the left is watching	Preposition		2	Relation
+187	there's more foam on the left than on the right	there's more foam on the right than on the left	Preposition		1	Relation
+188	a fish is jumping from left to right	a fish is jumping from right to left	Preposition		1	Relation
+189	they worked out then they drank water	they drank water then they worked out	Verb-Transitive Phrase		2	Relation
+190	the shrimp are peeled then the shrimp are cooked	the shrimp are cooked then the shrimp are peeled	Verb-Intransitive		2	Relation
+191	the coffee is poured before it is ground	it is ground before the coffee is poured	Sentence		2	Relation
+192	the potato is washed and then it is cut	the potato is cut and then it is washed	Verb-Intransitive		2	Relation
+193	the banana is peeled then it is sliced	the banana is sliced then it is peeled	Verb-Intransitive		2	Relation
+194	the dog is swimming and the person is standing	the dog is standing and the person is swimming	Verb-Intransitive, Noun		2	Relation
+195	the person is jumping while the cat is sitting	the person is sitting while the cat is jumping	Verb-Intransitive, Noun		2	Relation
+196	a cat is lying down and a person is stretching	a cat is stretching and a person is lying down	Verb-Intransitive Phrase		2	Relation
+197	some people are standing but more are sitting	some people are sitting but more are standing	Verb-Intransitive, Determiner-Numeral		2	Relation
+198	The kid throws the pancake and the adult sees it	The kids see the pancake and the adult throws it	Verb-Transitive	Morpheme-Level	2	Relation
+199	painting gray walls white	painting white walls gray	Adjective-Color		1	Relation
+200	a shorter person wearing blue standing next to a taller person	a taller person wearing blue standing next to a shorter person	Adjective-Height		1	Relation
+201	a person wearing a bear mask in blue on the left hand side of a person wearing a panda mask with glasses in pink	a person wearing a panda mask with glasses in blue on the left hand side of a person wearing a bear mask in pink	Noun, Preposition Phrase, Scope	Series	1	Both
+202	a car containing many a box	a box containing many a car	Noun	Symbolic	1	Object
+203	left is red and right is blue	left is blue and right is red	Adjective-Color	Symbolic	2	Relation
+204	many a table tennis racket, just one ball	just one table tennis racket, many a ball	Determiner-Numeral		1	Relation
+205	four lions, no tigers	no lions, four tigers	Determiner-Numeral		1	Relation
+206	a small spherical object is heavier than a big spherical object	a big spherical object is heavier than a small spherical object	Adjective-Size		1	Relation
+207	an older person blocking a younger person	a younger person blocking an older person	Adjective-Age		1	Relation
+208	white land and black water	black land and white water	Adjective-Color	Symbolic	1	Relation
+209	the cube is smaller than the shape whose lateral faces meet at a vertex	the shape whose lateral faces meet at a vertex is smaller than the cube	Noun Phrase	Symbolic	1	Object
+210	more bicycles than cars	more cars than bicycles	Noun		1	Object
+211	there are more apples than pears	there are more pears than apples	Noun		1	Object
+212	there is more love than hate	there is more hate than love	Noun		1	Object
+213	more water than oil	more oil than water	Noun		1	Object
+214	a person cries while another person wearing jewelry above their shoulders consoles	a person consoles while another person wearing jewelry above their shoulders cries	Verb-Intransitive		2	Relation
+215	a person with long hair eating a meat-based product while a person with short hair snacks on some fries	a person with short hair eating a meat-based product while a person with long hair snacks on some fries	Adjective-Size		2	Relation
+216	water below the boat	boat below the water	Noun		1	Object
+217	the one in front is faster than the other one	the other one is faster than the one in front	Noun Phrase	Symbolic	1	Object
+218	You can catch more flies with honey than you can with vinegar	You can catch more flies with vinegar than you can with honey	Noun	Pragmatics	2	Object
+219	It starts with "A" and ends with "Z"	It starts with "Z" and ends with "A"	Noun	Symbolic, Pragmatics	2	Object
+220	a shadow within the line	a line within the shadow	Noun		1	Object
+221	the brave in the face of fear	fear in the face of the brave	Noun Phrase	Pragmatics	1	Object
+222	I need my strength back	I need my back strength	Altered POS	Pragmatics	1	Both
+223	the one in the middle is taller than the ones on the side are	the ones on the side are taller than the one in the middle is	Sentence		1	Relation
+224	fish flying	fly fishing	Altered POS	Morpheme-Level	1	Both
+225	the red car is behind the blue car	the blue car is behind the red car	Adjective-Color		1	Relation
+226	the driver wearing a shirt is in front of the other person wearing a sleeveless top	the driver wearing a sleeveless top is in front of the other person wearing a shirt	Noun		2	Object
+227	an object that rolls is on some wood	some wood is on an object that rolls	Determiner-Numeral, Noun Phrase		1	Object
+228	a cat viewing a human on a screen	a human viewing a cat on a screen	Noun		1	Object
+229	a normal person wishing they were a superhero	a superhero wishing they were a normal person	Noun Phrase	Symbolic, Pragmatics	1	Object
+230	a mike in the right hand while raising the left	a mike in the left hand while raising the right	Preposition		2	Relation
+231	a person with long hair behind a person with a beard	a person with a beard behind a person with long hair	Noun Phrase		1	Object
+232	the person with hair to their shoulders has brown eyes and the other person's are blue	the person with hair to their shoulders has blue eyes and the other person's are brown	Adjective-Color		2	Relation
+233	a human being on a device that intercepts the sun's rays	a device that intercepts the sun's rays on a human being	Noun Phrase		1	Object
+234	more humans than phones	more phones than humans	Noun		1	Object
+235	a person is in the tube	a tube is in the person	Noun		1	Object
+236	the person's head is above the rest of their body	the rest of their body is above the person's head	Noun Phrase		1	Object
+237	person overboard	person over board	Scope	Morpheme-Level	1	Relation
+238	more red buttons than blue	more blue buttons than red	Adjective-Color	Symbolic	1	Relation
+239	the object at the top left is purple and the one at the bottom right of the group is red	the object at the bottom right is purple and the one at the top left of the group is red	Preposition Phrase		2	Relation
+240	flat at the bottom and pointy on top	flat on top and pointy at the bottom	Preposition Phrase		1	Relation
+241	seat numbers increasing from left to right	seat numbers increasing from right to left	Preposition		1	Relation
+242	the number on the right is larger than the number on the left	the number on the left is larger than the number on the right	Preposition		1	Relation
+243	more hair on the person's face than on their head	more hair on the person's head than on their face	Noun		1	Object
+244	the knife on the left and the fork on the right	the knife on the right and the fork on the left	Preposition		2	Relation
+245	food on their eyes	eyes on their food	Noun	Symbolic	1	Object
+246	cars of bits	bits of cars	Noun	Symbolic	1	Object
+247	a person on top of the world	the world on top of a person	Noun	Symbolic	1	Object
+248	two people; the one on the right has curly hair and the one on the left doesn't	two people; the one on the left has curly hair and the one on the right doesn't	Preposition		2	Relation
+249	first the cream, then the jam	first the jam, then the cream	Noun		1	Object
+250	more kisses than hugs	more hugs than kisses	Noun		1	Object
+251	an inflatable flamingo on a person	a person on an inflatable flamingo	Noun Phrase		1	Object
+252	a pink bird with a white beak	a white bird with a pink beak	Adjective-Color		1	Relation
+253	a large pink inflatable flamingo along with some other lilos on the water including one that is mostly white	a large white inflatable flamingo along with some other lilos on the water including one that is mostly pink	Adjective-Color		1	Relation
+254	there are more eyes in the image than there are on a typical human	there are more eyes on a typical human than there are in the image	Preposition Phrase	Symbolic	1	Relation
+255	the confident doctor's stethoscope is around their neck, and their jacket is over their name tag	the confident doctor's stethoscope is around their neck, and their name tag is over their jacket	Noun		2	Object
+256	few wind turbines and many clouds	few clouds and many wind turbines	Noun		1	Object
+257	an adult is reading to their young child	their young child is reading to an adult	Noun Phrase, Determiner-Possessive		1	Object
+258	the shopping basket is full and the shelves on the person's right are empty	the shelves on the person's right are full and the shopping basket is empty	Sentence		2	Relation
+259	Young person playing baseball with a green bat and blue ball	Young person playing baseball with a blue bat and green ball	Noun, Adjective-Color		1	Relation
+260	painting the white wall red	painting the red wall white	Adjective-Color		1	Relation
+261	wearing a red jacket over blue	wearing a blue jacket over red	Adjective-Color		1	Relation
+262	I had cleaned my car	I had my car cleaned	Altered POS	Pragmatics	1	Both
+263	unfortunate poor people	poor unfortunate people	Adjective-Manner	Pragmatics	1	Relation
+264	there are less gloves than masks	there are less masks than gloves	Noun		1	Object
+265	there are more pineapples than boxes	there are more boxes than pineapples	Noun		1	Object
+266	the outer bristles are blue and the inner ones are white	the outer bristles are white and the inner ones are blue	Adjective-Color		2	Relation
+267	the first vowel is E and the last consonant is N	the last vowel is E and the first consonant is N	Adjective-Temporal	Symbolic, Pragmatics	2	Relation
+268	the cat on the left of the photo has its right paw ahead of its left	the cat on the left of the photo has its left paw ahead of its right	Adjective-Spatial		1	Relation
+269	the text is black on white	the text is white on black	Adjective-Color		1	Relation
+270	the dog sits and the cat stands	the dog stands and the cat sits	Verb-Intransitive		1	Relation
+271	the person with facial hair cycles and the other person runs	the person with facial hair runs and the other person cycles	Verb-Intransitive		2	Relation
+272	using the laptop while the guitar is close by	using the guitar while the laptop is close by	Noun		1	Object
+273	a person in a blue coat with a brown-ish coffee cup	a person in a brown-ish coat with a blue coffee cup	Adjective-Color		1	Relation
+274	space in a star	a star in space	Noun	Symbolic	1	Object
+275	star of death	death of star	Noun	Symbolic, Pragmatics	1	Object
+276	the younger person is making noise while the other is silent	the younger person is silent while the other is making noise	Verb-Intransitive, Adjective-Manner		2	Relation
+277	the one on the left is happy and the other is sad	the one on the left is sad and the other is happy	Noun Phrase, Adjective-Animate		2	Relation
+278	the person on the left is dancing and the person on the very right is sitting on the sofa	the person on the left is sitting on the sofa and the person on the very right is dancing	Verb-Intransitive, Verb-Transitive Phrase		2	Relation
+279	the person on the left is crying sadly while the one on the right is smiling happily	the person on the left is smiling happily while the one on the right is crying sadly	Verb-Intransitive Phrase, Adverb-Animate		2	Relation
+280	the large person is drinking from the small coffee cup	the small person is drinking from the large coffee cup	Adjective-Size		1	Relation
+281	hot rubber and cool metal	cool rubber and hot metal	Adjective-Temperature		1	Relation
+282	the triangular shape is beneath the square one	the square shape is beneath the triangular one	Adjective-Shape		1	Relation
+283	rough outside but smooth inside	smooth outside but rough inside	Adjective-Texture		1	Relation
+284	the green one is fast and the one in white is comparatively slow	the green one is slow and the one in white is comparatively fast	Adjective-Speed		2	Relation
+285	there are more humans than balls	there are more balls than humans	Noun		1	Object
+286	there are more legs than wheels	there are more wheels than legs	Noun		1	Object
+287	a group of three people with longer hair and two with short hair in a business context	a group of two people with longer hair and three with short hair in a business context	Determiner-Numeral		2	Relation
+288	the gesture of the person sitting down is supporting the understanding of the person standing up	the gesture of the person standing up is supporting the understanding of the person sitting down	Verb-Intransitive Phrase, Preposition		1	Relation
+289	the circle is above the cross	the cross is above the circle	Noun		1	Object
+290	aerial view of a green tree in the brown freshly turned soil next to a green field	aerial view of a green tree in a green field next to the brown freshly turned soil	Noun Phrase, Adjective-Color		1	Object
+291	physical therapist inspecting blue elastic therapeutic kinesio tape over pink	physical therapist inspecting pink elastic therapeutic kinesio tape over blue	Adjective-Color	Series	1	Relation
+292	the skipping rope color is different to the shoelaces but similar to the shoes	the skipping rope color is similar to the shoelaces but different to the shoes	Adjective-Manner		2	Relation
+293	the blue balloon is being lifted by the weight	the weight is being lifted by the blue balloon	Noun Phrase		1	Object
+294	the sea is rough but the rocks are smooth	the sea is smooth but the rocks are rough	Adjective-Manner		2	Relation
+295	the melting white food is cold while the brown is warm	the melting white food is warm while the brown is cold	Adjective-Temperature		2	Relation
+296	the person with a beard is smiling while the person with long hair is not	the person with long hair is smiling while the person with a beard is not	Noun Phrase		2	Object
+297	the pet on the right is white and the one on the left is not	the pet on the left is white and the one on the right is not	Preposition		2	Relation
+298	the outlet carrying water from the faucet to the shower head is near the hot tap not the cold	the outlet carrying water from the faucet to the shower head is near the cold tap not the hot	Adjective-Temperature		1	Relation
+299	the larger ball is heavier and the smaller one is lighter	the larger ball is lighter and the smaller one is heavier	Adjective-Weight		2	Relation
+300	The adult with the magnifying glass looks at the kid	The adult looks at the kid with the magnifying glass	Preposition Phrase		1	Relation
+301	a dog is on a blanket with spots	a blanket is on a dog with spots	Noun		1	Object
+302	There is a mouse cake for a birthday	There is a birthday cake for a mouse	Noun		1	Object
+303	The cold-blooded animal isn't happy in warm water	The warm-blooded animal isn't happy in cold water	Adjective-Temperature	Symbolic, Morpheme-Level	1	Relation
+304	The white queen is taking the black king	The black queen is taking the white king	Adjective-Color		1	Relation
+305	visiting animals at home can be fun	animals visiting at home can be fun	Altered POS		1	Both
+306	the person is not happy with the cat	the cat is not happy with the person	Noun		1	Object
+307	the person is too big for the small door	the door is too small for the big person	Noun, Adjective-Size	Pragmatics	1	Both
+308	a taller person is covering the eyes of a shorter person	a shorter person is covering the eyes of a taller person	Adjective-Size		1	Relation
+309	the plant is eating the bug	the bug is eating the plant	Noun		1	Object
+310	every bug has a leaf	every leaf has a bug	Noun	Pragmatics	1	Object
+311	the green leaves will soon be red as the seasons change	the red leaves will soon be green as the seasons change	Adjective-Color		1	Relation
+312	the white wall will soon be painted blue	the blue wall will soon be painted white	Adjective-Color		1	Relation
+313	the moon prevents the sun's rays from falling on the earth	the earth prevents the sun's rays from falling on the moon	Noun		1	Object
+314	all paper airplanes fly on a straight path except for one which takes a curved one	all paper airplanes fly on a curved path except for one which takes a straight one	Adjective-Manner	Symbolic	2	Relation
+315	the person is too big for the pants	the pants is too big for the person	Noun		1	Object
+316	a kid jumped then threw a basketball	a kid threw a basketball then jumped	Verb-Intransitive, Verb-Transitive Phrase	Series	2	Relation
+317	one cheerlearder supporting multiple cheerleaders	multiple cheerleaders supporting one cheerlearder	Determiner-Numeral		1	Relation
+318	two persons wearing one scarf	one person wearing two scarfs	Determiner-Numeral	Morpheme-Level	1	Relation
+319	human head on pet	pet head on human	Noun		1	Object
+320	the cow is over the moon	the moon is over the cow	Noun	Symbolic	1	Object
+321	someone babys a pet	someone pets a baby	Altered POS	Morpheme-Level	1	Both
+322	cat house	house cat	Noun		1	Object
+323	gold for pan	pan for gold	Noun	Pragmatics	1	Object
+324	water for plants	plants for water	Noun		1	Object
+325	the businessperson's down fall	the businessperson's fall down	Altered POS		1	Both
+326	outswam the person in the red swimcap	the person in the red swimcap swamout	Scope, Preposition, Verb-Intransitive	Morpheme-Level	1	Relation
+327	manning a ship	shiping a mann	Altered POS	Symbolic, Morpheme-Level	1	Both
+328	the person wearing a sweater stands in front of the person who isn't wearing a sweater	the person who isn't wearing a sweater stands in front of the person wearing a sweater	Negation, Scope		1	Relation
+329	a person without glasses pushes a person with glasses sitting in a box	a person with glasses pushes a person without glasses sitting in a box	Negation, Scope		1	Relation
+330	what is green will soon be yellow	what is yellow will soon be green	Adjective-Color		1	Relation
+331	soon this animal not with a tail will have one	soon this animal with a tail will not have one	Negation, Scope		2	Relation
+332	a mouse is touching a dog	a dog is touching a mouse	Noun		1	Object
+333	fishing for compliments	compliments for fishing	Altered POS		1	Both
+334	that person dusting off their hands	that person hands off their dusting	Altered POS		1	Both
+335	a person wearing black shoes cleaning a bookshelf with an orange duster while a person wearing green shoes drinks wine from an orange glass and relaxes	a person wearing green shoes cleaning a bookshelf with an orange duster while a person wearing black shoes drinks wine from an orange glass and relaxes	Adjective-Color	Series	2	Relation
+336	a person with short hair is happily ironing a light blue shirt while a person with long hair sits on a white couch	a person with long hair is happily ironing a light blue shirt while a person with short hair sits on a white couch	Adjective-Size	Series	2	Relation
+337	yellow duck shoes on	yellow duck on shoes	Altered POS		1	Both
+338	child in front facing row of yellow rubber ducks	front facing child in row of yellow rubber ducks	Scope, Preposition Phrase	Series	1	Relation
+339	a bird cooking a person	a person cooking a bird	Noun	Symbolic	1	Object
+340	a person wearing yellow and a person wearing stripes jumping	a jumping person wearing yellow and a person wearing stripes	Scope, Adjective-Manner	Series	2	Relation
+341	a person wearing yellow with their feet in the air and a person wearing stripes	a person wearing stripes with their feet in the air and a person wearing yellow	Adjective-Color	Series	2	Relation
+342	darker things become light in stripes	light things in stripes become darker	Scope, Preposition Phrase, Adjective-Color		1	Both
+343	together hammering something	hammering something together	Scope	Pragmatics	1	Relation
+344	A person sits next to a baby using an orange screwdriver to assemble a white piece of furniture	A baby sits next to a person using an orange screwdriver to assemble a white piece of furniture	Noun	Pragmatics, Series	1	Object
+345	a worker in a yellow hat uses a drill to the left of where the opening in the wall is	the opening in the wall is to the left of where a worker in a yellow hat uses a drill	Sentence	Series	1	Relation
+346	A small animal with curled hair	A curled small animal with hair	Scope, Adjective-Texture		1	Relation
+347	A right hand pulls a glove onto a left hand	A left hand pulls a glove onto a right hand	Adjective-Spatial		1	Relation
+348	A dog and a person with their feet hanging out of a car window	A dog with their feet hanging out of a car window and a person	Scope, Conjunction Phrase	Pragmatics	1	Relation
+349	A person whispering into a dog's ear	A dog whispering into a person's ear	Noun	Morpheme-Level	1	Object
+350	one ear that some donkey is whispering a secret into	donkey ear that some one is whispering a secret into	Altered POS, Determiner-Numeral	Morpheme-Level	1	Both
+351	walking someone cut lines into green plants	someone walking lines cut into green plants	Scope, Altered POS, Verb-Intransitive, Verb-Transitive		1	Both
+352	a volcano above water makes steam	water above a volcano makes steam	Noun Phrase		1	Object
+353	A child riding a bike and an adult	A child and an adult riding a bike	Scope, Conjunction Phrase	Pragmatics	1	Relation
+354	an adult putting a helmet on a child	a child putting a helmet on an adult	Noun	Series	1	Object
+355	An adult wearing purple lying next to a child	An adult lying next to a child wearing purple	Scope, Adjective-Manner	Pragmatics, Series	1	Relation
+356	a fencer who is wearing black pants having a point scored against them by another fencer using a wheelchair	a fencer having a point scored against them by another fencer who is wearing black pants using a wheelchair	Scope, Relative Clause	Series	1	Relation
+357	a person with long braids is exercising in front of a person without braids	a person without braids is exercising in front of a person with long braids	Negation, Noun Phrase, Preposition Phrase	Series	1	Relation
+358	in the stadium, the person wearing gray outperformed the one wearing blue	in the stadium, the person wearing blue outperformed the one wearing gray	Adjective-Color	Series	1	Relation
+359	butchering white meat while wearing yellow but not red	butchering red meat while wearing white but not yellow	Adjective-Color		1	Relation
+360	a child with a fake beard and an adult	an adult with a fake beard and a child	Noun		1	Object
+361	on halloween, a child dressed as an insect is to the right of a child dressed as a mammal	on halloween, a child dressed as a mammal is to the right of a child dressed as an insect	Noun		2	Object
+362	a modern office complex with many windows above a nicely landscaped lawn	a nicely landscaped lawn above a modern office complex with many windows	Noun Phrase		1	Object
+363	a tree is partially inside a parked car	a parked car is partially inside a tree	Noun Phrase		1	Object
+364	some are parking in a train	some are training in a park	Altered POS	Morpheme-Level	1	Both
+365	an athlete running on water	water running on an athlete	Noun Phrase		1	Object
+366	a horse getting wet	getting a horse wet	Scope		1	Relation
+367	the glasses full of water are above the person's head and leg	the person's head and leg are above the glasses full of water	Noun Phrase	Series	1	Object
+368	a person is touching the head of a squirrel	a squirrel is touching the head of a person	Noun		1	Object
+369	a deer's nose is resting on a child's hand	a child's hand is resting on a deer's nose	Noun Phrase, Determiner-Possessive	Series	1	Object
+370	two sparklers for one hand	one sparkler for two hands	Determiner-Numeral		1	Relation
+371	an animal giving a person food	a person giving an animal food	Noun		1	Object
+372	a spider towering over a dog	a dog towering over a spider	Noun	Symbolic, Series	1	Object
+373	a car going into a hollow tube	a hollow tube going into a car	Noun		1	Object
+374	two people wearing clothes of the same colors are on different side of the tennis net	two people wearing clothes of different colors are on the same side of the tennis net	Adjective-Manner Phrase		1	Relation
+375	living things drinking	drinking living things	Scope, Adjective-Manner		1	Relation
+376	a person near water using a lasso	near a person using a water lasso	Scope, Noun, Preposition		1	Both
+377	a person spraying water on someone else and a person on a bike	a person spraying water on a person on a bike and someone else	Scope, Conjunction		2	Relation
+378	a person stretching behind a brown dog	a brown dog stretching behind a person	Noun		1	Object
+379	a person carrying more than one flotation device	more than one flotation device carrying a person	Noun Phrase, Determiner-Numeral		1	Object
+380	two kids on a pool floatie and one kid swimming	one kid on a pool floatie and two kids swimming	Determiner-Numeral	Series	2	Relation
+381	gears for moving something	moving gears for something	Scope, Verb-Transitive		1	Relation
+382	looking from above at a collection of similar objects below	looking from below at a collection of similar objects above	Preposition		1	Relation
+383	a toy herbivore stands on top of at least one toy carnivore	at least one toy herbivore stands on top of a toy carnivore	Determiner-Numeral	Symbolic, Series	1	Relation
+384	a person supports a small chair	a chair supports a small person	Noun		1	Object
+385	a person smiles at another person wearing a checked shirt who is hitting a ping pong ball	a person wearing a checked shirt smiles at another person who is hitting a ping pong ball	Scope, Adjective-Manner	Series	1	Relation
+386	two versions of one person	one version of two persons	Determiner-Numeral	Morpheme-Level	1	Relation
+387	There are not pink flowers below the bird with yellow head feathers	There are pink flowers not below the bird with yellow head feathers	Negation, Scope		1	Relation
+388	In a shopping cart, there are two animals that are the same species but are looking in different directions	In a shopping cart, there are two animals that are the different species but are looking in same directions	Adjective-Manner	Series	2	Relation
+389	water is on and under a vessel	a vessel is on and under water	Noun		2	Object
+390	two bodies share with one head	one bodies share with two head	Determiner-Numeral		1	Relation
+391	The worker wears something striped over a white undershirt with a collar	The worker wears something white over a striped undershirt with a collar	Adjective-Color		1	Relation
+392	A person seen from above has a grid below them	A person seen from below has a grid above them	Preposition		1	Relation
+393	head in the clouds	clouds in the head	Noun	Symbolic	1	Object
+394	standing on feet	on feet standing	Scope, Preposition Phrase	Pragmatics	1	Relation
+395	They have sunglasses over their hair	They have hair over their sunglasses	Noun		1	Object
+396	an odd number of sweet things on a plate with an even number of sides	an even number of sweet things on a plate with an odd number of sides	Adjective-Manner		1	Relation
+397	a large living thing in front of a large non-living thing	a large non-living thing in front of a large living thing	Negation, Scope		1	Relation
+398	racing over it	racing it over	Scope, Preposition		1	Relation
+399	someone is overdoing it	someone is doing it over	Scope, Preposition	Morpheme-Level	1	Relation
