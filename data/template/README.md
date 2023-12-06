@@ -18,3 +18,7 @@ Reference: [Why is Winoground Hard? Investigating Failures in Visuolinguistic Co
 # Winoground-T2I Templates and Modification Rules
 
 template.txt: The templates and modification rules of seed sentence pairs from Winoground with the ```no-tag``` label.
+
+The format is : original_winoground_id \t templeate_id \t	caption_0	\t caption_1 \t class \t template	\t modification_rule \t template_details(json) \t modification_examples(json)
+
+Templates are initially extracted by ```gpt-3.5-turbo```. Subsequently, a verification process is conducted by human reviewers, which includes all templates and modification rules, along with their examples.
